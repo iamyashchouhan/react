@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xD18423C9BF286Cb71B927944640A71dE18DBf0EC",
+  "SCAN_LINK": "https://polygonscan.com/address/0xD18423C9BF286Cb71B927944640A71dE18DBf0EC",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "PixelCatClub",
+  "SYMBOL": "PCC",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 20000000000000000,
+  "DISPLAY_COST": 0.02,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/pixelcatclub",
+  "SHOW_BACKGROUND": true
+}
